@@ -1,6 +1,5 @@
 # WARZONE DATABASE
 
-# SALES OVERVIEW 
 ### Project overview
 * This project explores weapon damage data for 2 video games
 * I create a SQL database that will hold all entires
