@@ -33,5 +33,5 @@ The final product is a 3 pages dashboard. The first is a snapshot of sales perfo
 
 You can see the final dashboard clicking **[HERE](https://tristanappleby.shinyapps.io/warzoneApp/)** or in the image below
 
-[![Click for a better analysis](image/Shiny.png)](https://tristanappleby.shinyapps.io/warzoneApp/)
+[![Click for a better analysis](images/Shiny.png)](https://tristanappleby.shinyapps.io/warzoneApp/)
 eed more information to understand why
