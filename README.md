@@ -2,22 +2,15 @@
 
 # SALES OVERVIEW 
 ### Project overview
-* This project explores sales data for an international grocery store chain.
-* I explore the relation between sales, regions, customers, products, stores, returns and date.
-* We can obtain conclusions that will help us to make better marketing campaigns and improve profits.
+* This project explores weapon damage data for 2 video games
+* I create a SQL database that will hold all entires
+* Following, I connect an R shiny app to the database.
 
 ### Objectives:
 The goal is to build a sales report that shows summarized information about the business´s current situation to understand how to make more profits. 
 
 The most important indicators are sales, region, top customers, and top products:
 
-**Deliverables:**
-
-| Demanding | Value | Deliverable |
-| ----------- | ----------- | ----------|
-| A dashboard that summarizes the company's current situation | To understand which products and customers have the biggest impact on the company | A dashboard that shows the most important metrics and that can be updated everyday |
-| An overview of sales organized by clients | To acknowledge which customers, buy more and how to sell more to them | A dashboard that can filter customers by product, city, and relevance  |
-| A detailed overview of the best products | To follow those products that have better sales | A dashboard that can filter products by customer, city, and relevance |
 
 ### Data preparation
 The database consists of hardcoded data entries for different weapons within the video games Call of Duty Modern Warfare & Call of Duty Black Ops 
@@ -29,7 +22,7 @@ You can see R code here **[HERE](https://github.com/programTristan/Warzone_Datab
 
 You can see SQL query here **[HERE](https://github.com/programTristan/Warzone_Database/blob/95f5745c6a2156d51d821ebc7b78229de790ac70/SQL_Query/TristanApplebywarzone.sql)**:
 
-[![](images/Sales query.PNG)](https://github.com/Roberto121c/Sales_Management/tree/main/Query)
+[![](images/Sales query.PNG)](https://tristanappleby.shinyapps.io/warzoneApp/)
 
 ### Data model:
 
@@ -38,7 +31,7 @@ You can see SQL query here **[HERE](https://github.com/programTristan/Warzone_Da
 ### Visualizations 
 The final product is a 3 pages dashboard. The first is a snapshot of sales performance while other two focus on customers and sale metrics
 
-You can see the final dashboard clicking **[HERE](https://app.powerbi.com/reportEmbed?reportId=e270ad7b-c546-4d13-97f7-50fe4e91dc3a&autoAuth=true&ctid=2a144b72-f239-42d4-8c0e-6f0f17c48e33&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QyLWMtcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)** or in the image below
+You can see the final dashboard clicking **[HERE](https://tristanappleby.shinyapps.io/warzoneApp/)** or in the image below
 
 [![Click for a better analysis](image/Snapshot.png)](https://app.powerbi.com/reportEmbed?reportId=e270ad7b-c546-4d13-97f7-50fe4e91dc3a&autoAuth=true&ctid=2a144b72-f239-42d4-8c0e-6f0f17c48e33&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QyLWMtcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)
 
