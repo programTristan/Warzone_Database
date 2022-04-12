@@ -21,7 +21,6 @@ You can see R code here **[HERE](https://github.com/programTristan/Warzone_Datab
 
 You can see SQL query here **[HERE](https://github.com/programTristan/Warzone_Database/blob/95f5745c6a2156d51d821ebc7b78229de790ac70/SQL_Query/TristanApplebywarzone.sql)**:
 
-[![](images/Sales query.PNG)](https://tristanappleby.shinyapps.io/warzoneApp/)
 
 ### Data model:
 
