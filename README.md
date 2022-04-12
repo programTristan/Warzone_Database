@@ -26,16 +26,12 @@ You can see SQL query here **[HERE](https://github.com/programTristan/Warzone_Da
 
 ### Data model:
 
-![Data model](image/Data_model.png)
+![Data model](images/Shiny.png)
 
 ### Visualizations 
 The final product is a 3 pages dashboard. The first is a snapshot of sales performance while other two focus on customers and sale metrics
 
 You can see the final dashboard clicking **[HERE](https://tristanappleby.shinyapps.io/warzoneApp/)** or in the image below
 
-[![Click for a better analysis](image/Snapshot.png)](https://app.powerbi.com/reportEmbed?reportId=e270ad7b-c546-4d13-97f7-50fe4e91dc3a&autoAuth=true&ctid=2a144b72-f239-42d4-8c0e-6f0f17c48e33&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QyLWMtcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)
-
-### Conclusions
-* The best customers are Jordan Turner, Maurice Shan, Janet Munoz, and Lisa Cai
-* The best product is the Mountain-200 Black but all color sell well
-* During July, September, and November 2020 our sales were less than Budget. I need more information to understand why
+[![Click for a better analysis](image/Shiny.png)](https://tristanappleby.shinyapps.io/warzoneApp/)
+eed more information to understand why
