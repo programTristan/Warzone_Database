@@ -24,7 +24,6 @@ You can see SQL query here **[HERE](https://github.com/programTristan/Warzone_Da
 
 You can see R code here **[HERE](https://github.com/programTristan/Warzone_Database/blob/95f5745c6a2156d51d821ebc7b78229de790ac70/R_Code/TristanAppleby_warzoneShiny.R)**:
 
-![Data model](images/Warzone_ShinyApp.png)
 
 ### Visualizations 
 The final product is a 5 plots dashboard. The first is a snapshot of sales performance while other two focus on customers and sale metrics
