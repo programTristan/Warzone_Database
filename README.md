@@ -4,6 +4,7 @@
 * This project explores weapon damage data for 2 video games
 * I create a SQL database that will hold all entires
 * Following, I connect an R shiny app to the database.
+* The programs used were MySQL and R Studio
 
 ### Objectives:
 
