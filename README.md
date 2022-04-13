@@ -6,9 +6,6 @@
 * Following, I connect an R shiny app to the database.
 
 ### Objectives:
-The goal is to build a sales report that shows summarized information about the business´s current situation to understand how to make more profits. 
-
-The most important indicators are sales, region, top customers, and top products:
 
 
 You can see Data source here **[HERE](https://www.downsights.com/call-of-duty-warzone-weapon-stats/#modern-warfare-2019)**:
