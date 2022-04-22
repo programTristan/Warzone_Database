@@ -25,13 +25,17 @@ You can see SQL query here **[HERE](https://github.com/programTristan/Warzone_Da
 [![](images/BulletTable.png)](https://github.com/programTristan/Warzone_Database/blob/95f5745c6a2156d51d821ebc7b78229de790ac70/SQL_Query/TristanApplebywarzone.sql)
 
 
-### Data model:
+### Data modelling:
+The database is then connected to R studio for data plotting. The ggplot2 library is used to render several graphs that will be displayed on the user interface. 
+
+[![](images/Rconnect.png)](https://github.com/programTristan/Warzone_Database/blob/95f5745c6a2156d51d821ebc7b78229de790ac70/R_Code/TristanAppleby_warzoneShiny.R)
 
 You can see R code here **[HERE](https://github.com/programTristan/Warzone_Database/blob/95f5745c6a2156d51d821ebc7b78229de790ac70/R_Code/TristanAppleby_warzoneShiny.R)**:
 
 
 ### Visualizations 
-The final product is a 5 plots dashboard. The first is a snapshot of sales performance while other two focus on customers and sale metrics
+The Shiny App consists of 5 different plots and 1 data table.
+*
 
 You can see the final dashboard clicking **[HERE](https://tristanappleby.shinyapps.io/Warzone_DB/)** or in the image below
 
