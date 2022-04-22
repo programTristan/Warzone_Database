@@ -1,19 +1,20 @@
 # WARZONE DATABASE
 
 ### Project overview
-* This project explores weapon damage data for 2 video games
-* I create a SQL database that will hold all entires
-* Following, I connect an R shiny app to the database.
+* This project analyzes weapon choices for the video game Call of Duty: Warzone
+* I build a database that holds all weapon data
+* I connect an R shiny app that displays plots for the data
 * The programs used were MySQL and R Studio
 
 ### Objectives:
+Construct a MySQL database that holds data for weapon statistics. Allow players to visually compare weapons choices and analyse statistics, for different gun classes, that affect overall game performance: time to kill, rounds per minute, magazine Size, shot placement damage.
 
 
 You can see Data source here **[HERE](https://www.downsights.com/call-of-duty-warzone-weapon-stats/#modern-warfare-2019)**:
 
 
 ### Data preparation
-The database consists of hardcoded data entries for different weapons within the video games Call of Duty Modern Warfare & Call of Duty Black Ops 
+Each observation hardcoded into the entries for different weapons within the video games Call of Duty Modern Warfare & Call of Duty Black Ops 
 
 You can see SQL query here **[HERE](https://github.com/programTristan/Warzone_Database/blob/95f5745c6a2156d51d821ebc7b78229de790ac70/SQL_Query/TristanApplebywarzone.sql)**:
 
