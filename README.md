@@ -14,11 +14,15 @@ You can see Data source here **[HERE](https://www.downsights.com/call-of-duty-wa
 
 
 ### Data preparation
-Each observation is hardcoded into the 'weapons' table.
+The relevant data for each observation website is taken from the website and hardcoded into a table labelled as 'weapons'. Another table is then created and is labelled as 'bullets'. It holds different information but will still contain the weapon name. This is used to join the the tables and create the 'fullTable'.
+
+From the 'fullTable', there are 6 views and 10 stored procedures that are used to monitor and maintain the database.
+
+You can see SQL query here **[HERE](https://github.com/programTristan/Warzone_Database/blob/95f5745c6a2156d51d821ebc7b78229de790ac70/SQL_Query/TristanApplebywarzone.sql)**:
 
 [![](images/DataEntry.png)](https://github.com/programTristan/Warzone_Database/blob/95f5745c6a2156d51d821ebc7b78229de790ac70/SQL_Query/TristanApplebywarzone.sql)
 
-You can see SQL query here **[HERE](https://github.com/programTristan/Warzone_Database/blob/95f5745c6a2156d51d821ebc7b78229de790ac70/SQL_Query/TristanApplebywarzone.sql)**:
+[![](images/BulletTable.png)](https://github.com/programTristan/Warzone_Database/blob/95f5745c6a2156d51d821ebc7b78229de790ac70/SQL_Query/TristanApplebywarzone.sql)
 
 
 ### Data model:
