@@ -14,8 +14,7 @@ You can see Data source here **[HERE](https://www.downsights.com/call-of-duty-wa
 
 
 ### Data preparation
-Each observation hardcoded into the entries for different weapons within the video games Call of Duty Modern Warfare & Call of Duty Black Ops 
-
+Each observation is hardcoded into the 'weapons' table.
 ![](images/DataEntry.png)
 
 You can see SQL query here **[HERE](https://github.com/programTristan/Warzone_Database/blob/95f5745c6a2156d51d821ebc7b78229de790ac70/SQL_Query/TristanApplebywarzone.sql)**:
