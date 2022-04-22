@@ -35,9 +35,19 @@ You can see R code here **[HERE](https://github.com/programTristan/Warzone_Datab
 
 ### Visualizations 
 The Shiny App consists of 5 different plots and 1 data table.
-*
+* Shot Placement - Compares damage values agaisnts variables: Name, Rounds Per Minute, Aim Down Sight Speed
+* Density Distribution for Time to Kill - Displays a distribution for key performance statistic. THis can be filtered for different gun catergories
+* Correlation between Damage and Range - Analysis of damage and range for different gun categories
+* Spread of Magazine Sizes - Highlights variation of magazine capacity for all categories
+* Time to Kill Gun Camparison - Ranks all weapons, from best to worst, according to the weapons TTK value compared to the average.
+* Data Table - Printed 'fullTable' from SQL database
 
-You can see the final dashboard clicking **[HERE](https://tristanappleby.shinyapps.io/Warzone_DB/)** or in the image below
+You can see the Shiny App **[HERE](https://tristanappleby.shinyapps.io/Warzone_DB/)** or in the image below
 
 [![Click for a better analysis](images/Warzone_ShinyApp.png)](https://tristanappleby.shinyapps.io/Warzone_DB/)
-eed more information to understand why
+
+### Conclusions
+* Positive correlation between effective range and headshot damage for SMG's and LMG's.
+* Negative correlation between effective range and headshot damage for Assault Rifles.
+* The Fennec is the fastest at eliminating enemies.
+* The FINN is the slowest at eliminating eneemies.
